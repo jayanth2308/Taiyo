@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "3295",
+      "firstname": "Jayanth",
+      "lastname": "K",
+      "status": "inactive"
+    },
+    {
+      "id": "24c0",
+      "firstname": "jeevana",
+      "lastname": "K",
+      "status": "inactive"
+    },
+    {
+      "id": "fc72",
+      "firstname": "anirudh",
+      "lastname": "sai",
+      "status": "active"
+    },
+    {
+      "id": "6500",
+      "firstname": "nithin",
+      "lastname": "angoth",
+      "status": "active"
+    },
+    {
+      "id": "afba",
+      "firstname": "kalyan",
+      "lastname": "Tvs",
+      "status": "inactive"
+    }
+  ]
+}
